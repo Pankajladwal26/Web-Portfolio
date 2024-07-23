@@ -139,7 +139,7 @@ import {
         },
       ],
       image: MindMatrix,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://pankajladwal26.github.io/Mind-Matrix-Chatbot/",
     },
     {
       name: "Web Portfolio",
@@ -160,7 +160,7 @@ import {
         },
       ],
       image: WebPortfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://pankajladwal26.github.io/Web-Portfolio/",
     },
   ];
   
